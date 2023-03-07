@@ -7,4 +7,3 @@ for n1 in range(0, 10):
             if int(str(n1) + str(n2)) != 89:
                 print(end=', ')
 print()
-
