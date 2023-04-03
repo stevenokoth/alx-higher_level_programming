@@ -1,8 +1,11 @@
 #!/usr/bin/python3
-    Args:
+
+class Rectangle:
+    """
+    Args passed are;
         width (int): width
         height (int): height
-    Functions:
+    The corresponding functions are;
         __init__(self, width, height)
         width(self)
         width(self, value)

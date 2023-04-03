@@ -1,7 +1,10 @@
 #!/usr/bin/python3
-
+"""
+"""
+class Rectangle:
+"""
     Defines class rectangle with private attribute width and height
-    Args:
+        Args passed
         width (int): width
         height (int): height
     Functions:
